@@ -1,0 +1,32 @@
+h1{
+    color : red;
+ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
+
+.grid{
+   display: flex;
+   flex-wrap:wrap;
+   justify-content: space-evenly;
+}
+.header{
+    background-color: rgb(7, 245, 7);
+    display: flex;
+    border : solid;
+    justify-content:space-between;
+    flex-flow:;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+text-align:center;
+}
+
+
+p{
+    color : blue;
+}
